@@ -1,9 +1,9 @@
 {
-  "name": "reactjs-tiptap-editor",
+  "name": "soychrisdev-tiptap-editor",
   "type": "module",
   "version": "0.1.2",
-  "main": "./lib/reactjs-tiptap-editor.cjs",
-  "module": "./lib/reactjs-tiptap-editor.js",
+  "main": "./lib/soychrisdev-tiptap-editor.cjs",
+  "module": "./lib/soychrisdev-tiptap-editor.js",
   "types": "./lib/index.d.ts",
   "description": "A modern WYSIWYG rich text editor based on tiptap and shadcn ui for React",
   "packageManager": "pnpm@9.12.2",
@@ -11,11 +11,11 @@
     ".": {
       "import": {
         "types": "./lib/index.d.ts",
-        "default": "./lib/reactjs-tiptap-editor.js"
+        "default": "./lib/soychrisdev-tiptap-editor.js"
       },
       "require": {
         "types": "./lib/index.d.cts",
-        "default": "./lib/reactjs-tiptap-editor.cjs"
+        "default": "./lib/soychrisdev-tiptap-editor.cjs"
       }
     },
     "./style.css": {
@@ -187,7 +187,7 @@
     "editor",
     "wysiwyg",
     "rich-text",
-    "reactjs-tiptap-editor",
+    "soychrisdev-tiptap-editor",
     "tiptap-editor",
     "tiptap-react",
     "tiptap-react-editor",
@@ -197,10 +197,10 @@
     "tiptap-react-rc-wysiwyg",
     "tiptap-react-rc-rich-text"
   ],
-  "homepage": "https://reactjs-tiptap-editor.vercel.app/",
+  "homepage": "https://soychrisdev-tiptap-editor.vercel.app/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hunghg255/reactjs-tiptap-editor.git"
+    "url": "https://github.com/hunghg255/soychrisdev-tiptap-editor.git"
   },
-  "bugs": "https://github.com/hunghg255/reactjs-tiptap-editor/issues"
+  "bugs": "https://github.com/hunghg255/soychrisdev-tiptap-editor/issues"
 }
